@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: d92a55f4084892a44a3179b09b68dc92
+timeCreated: 1433652662
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: Bone008
+    100016: Bone009
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Bone015
+    100026: Bone016
+    100028: Bone017
+    100030: Bone019
+    100032: Bone023
+    100034: Bone027
+    100036: Bone028
+    100038: Bone029
+    100040: Bone030
+    100042: Bone041
+    100044: Bone042
+    100046: Bone044
+    100048: Bone045
+    100050: Bone046
+    100052: Bone047
+    100054: Bone048
+    100056: Bone049
+    100058: Bone051
+    100060: Bone052
+    100062: Bone053
+    100064: Bone054
+    100066: Sphere008
+    400000: //RootNode
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: Bone008
+    400016: Bone009
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Bone015
+    400026: Bone016
+    400028: Bone017
+    400030: Bone019
+    400032: Bone023
+    400034: Bone027
+    400036: Bone028
+    400038: Bone029
+    400040: Bone030
+    400042: Bone041
+    400044: Bone042
+    400046: Bone044
+    400048: Bone045
+    400050: Bone046
+    400052: Bone047
+    400054: Bone048
+    400056: Bone049
+    400058: Bone051
+    400060: Bone052
+    400062: Bone053
+    400064: Bone054
+    400066: Sphere008
+    4300000: Sphere008
+    7400000: Drow
+    9500000: //RootNode
+    13700000: Sphere008
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Drow
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone008
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone004/Bone008/Bone009
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone011
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone011/Bone012
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone011/Bone012/Bone013
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone015
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone015/Bone016
+        weight: 1
+      - path: Bone001/Bone002/Bone003/Bone015/Bone016/Bone017
+        weight: 1
+      - path: Bone001/Bone019
+        weight: 1
+      - path: Bone001/Bone019/Bone041
+        weight: 1
+      - path: Bone001/Bone019/Bone041/Bone042
+        weight: 1
+      - path: Bone001/Bone023
+        weight: 1
+      - path: Bone001/Bone023/Bone044
+        weight: 1
+      - path: Bone001/Bone023/Bone044/Bone045
+        weight: 1
+      - path: Bone001/Bone027
+        weight: 1
+      - path: Bone001/Bone027/Bone028
+        weight: 1
+      - path: Bone001/Bone027/Bone028/Bone029
+        weight: 1
+      - path: Bone001/Bone027/Bone028/Bone029/Bone030
+        weight: 1
+      - path: Bone001/Bone046
+        weight: 1
+      - path: Bone001/Bone046/Bone047
+        weight: 1
+      - path: Bone001/Bone046/Bone047/Bone048
+        weight: 1
+      - path: Bone001/Bone046/Bone047/Bone048/Bone049
+        weight: 1
+      - path: Bone001/Bone051
+        weight: 1
+      - path: Bone001/Bone051/Bone052
+        weight: 1
+      - path: Bone001/Bone051/Bone052/Bone053
+        weight: 1
+      - path: Bone001/Bone051/Bone052/Bone053/Bone054
+        weight: 1
+      - path: Sphere008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
